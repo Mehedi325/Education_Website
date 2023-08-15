@@ -1,4 +1,4 @@
-# React JS Portfolio Website
+# React JS Education Course Website
 
 [🔗Live Demo🔗](https://education-website-fawn.vercel.app/)
 
