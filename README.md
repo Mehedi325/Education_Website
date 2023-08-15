@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://education-website-fawn.vercel.app/)
 
-![Protfolio Website](src/assets/Portfolio2.png)
+![Protfolio Website](public/images/education.png)
 
 <div align="center">
 
