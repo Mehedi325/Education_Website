@@ -36,7 +36,7 @@
 
 ## Features
 
-**📖 Single-Page Layout**
+**📖 Multiple-Page Layout**
 
 **🎨 Styled with React-Tailwind CSS with easy-to-customize colors**
 
